@@ -55,7 +55,7 @@
   "dependencies": {
     "babel-loader": "^6.2.5",
     "react": "^15.3.1",
-    "react-dom": "^15.3.1"
+    "react-dom": "^16.0.1"
   },
   "description": "This plugin entegrates a Amazon S3 upload button to your TinyMCE.",
   "devDependencies": {
